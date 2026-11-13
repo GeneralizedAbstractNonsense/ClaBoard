@@ -6,7 +6,7 @@ Lavagna digitale multipagina per scrivere, disegnare e presentare lezioni. Inclu
 
 [Apri ClaBoard nel browser](https://generalizedabstractnonsense.github.io/ClaBoard/)
 
-La versione web viene pubblicata su GitHub Pages a ogni aggiornamento del branch `main`. Per la prima pubblicazione, imposta **Settings → Pages → Build and deployment → Source: GitHub Actions** nel repository.
+La versione web viene pubblicata su GitHub Pages a ogni aggiornamento del branch `main`. 
 
 ## Download desktop
 
