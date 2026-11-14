@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="/shared/app-icon-1024x1024.png" width="120" height="120" alt="Logo">
+  <img src="shared/app-icon-1024x1024.png" width="120" height="120" alt="Logo">
 </p>
 
 
